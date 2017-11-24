@@ -1,0 +1,7 @@
+C:\Users\hzhang\source\repos\CsharpDemo1\CsharpDemo1\bin\Debug\CsharpDemo1.exe.config
+C:\Users\hzhang\source\repos\CsharpDemo1\CsharpDemo1\bin\Debug\CsharpDemo1.exe
+C:\Users\hzhang\source\repos\CsharpDemo1\CsharpDemo1\bin\Debug\CsharpDemo1.pdb
+C:\Users\hzhang\source\repos\CsharpDemo1\CsharpDemo1\obj\Debug\CsharpDemo1.csprojResolveAssemblyReference.cache
+C:\Users\hzhang\source\repos\CsharpDemo1\CsharpDemo1\obj\Debug\CsharpDemo1.csproj.CoreCompileInputs.cache
+C:\Users\hzhang\source\repos\CsharpDemo1\CsharpDemo1\obj\Debug\CsharpDemo1.exe
+C:\Users\hzhang\source\repos\CsharpDemo1\CsharpDemo1\obj\Debug\CsharpDemo1.pdb
